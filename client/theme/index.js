@@ -22,7 +22,8 @@ const pallete = [
         bgColor: opacity=> `rgba(45, 212, 191, ${opacity})`
     },
     {
-        // red
+        // yellow
+        // yellow
         text: '#dc2626',
         bgColor: opacity=> `rgba(248, 113, 113, ${opacity})`
     }
